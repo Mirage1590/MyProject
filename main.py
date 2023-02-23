@@ -10,10 +10,11 @@ def intro():
 
     st.markdown(
         """
-        This is my Project Final I'm glad you came to see my work. Now let me introduce myself. 
-        My name is Pannawit Jitpimonwat 65114540365 UNU Science Student.
+        This is my project for studying in the final semester of the first year student. I'm glad you came to see my work. 
+        Now, let me introduce myself. My name is Pannawit Jitpimonwat ( 65114540365 ) Bachelor's Degree students in the First Year, 
+        Data Science and Software Innovation, Faculty of Science Ubon Ratchathani University.
 
-        **👈 Select a Size Shirt from the dropdown on the left** to see the size and type of shirt you want to wear!
+        **👈 Please select the shirt size from the drop down on the left. To see the size and type of the shirt you want to wear!
         """
     )
     col1, col2, col3, col4 = st.columns(4)
